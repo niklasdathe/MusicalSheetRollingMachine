@@ -15,6 +15,7 @@
 - 1x Iglidur Gear Spacer 2mm
 - 1x Iglidur Gear Spacer 3mm
 - 2x 8mm Shaft Clamp
+- 1x Electrical Enclosure
 
 ## Other Parts:
 - 2x Aluminum Pipe: 15mm x 1mm x 548mm
